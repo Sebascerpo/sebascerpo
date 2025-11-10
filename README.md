@@ -1,7 +1,10 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/50473c27-9000-492c-9ec9-cf3ede2f91f5" align="center" style="width: 100%" />
-</div>  
-  
+  <img 
+    src="https://github.com/user-attachments/assets/50473c27-9000-492c-9ec9-cf3ede2f91f5" 
+    alt="Imagen circular"
+    style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.2);" 
+  />
+</div>
 
 
 
